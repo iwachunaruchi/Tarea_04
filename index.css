@@ -1,0 +1,12 @@
+.border_r{
+    border: 5px solid red;
+}
+.border_o{
+    border: 5px solid orange;
+}
+
+.base{
+    background-color: lightblue;
+    border-radius: 15px;
+    padding: 15px;
+}
